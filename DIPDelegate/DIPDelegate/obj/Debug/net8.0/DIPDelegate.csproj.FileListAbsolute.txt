@@ -1,0 +1,14 @@
+C:\Users\Harshvardhan Gupta\source\repos\DIPDelegate\DIPDelegate\bin\Debug\net8.0\DIPDelegate.exe
+C:\Users\Harshvardhan Gupta\source\repos\DIPDelegate\DIPDelegate\bin\Debug\net8.0\DIPDelegate.deps.json
+C:\Users\Harshvardhan Gupta\source\repos\DIPDelegate\DIPDelegate\bin\Debug\net8.0\DIPDelegate.runtimeconfig.json
+C:\Users\Harshvardhan Gupta\source\repos\DIPDelegate\DIPDelegate\bin\Debug\net8.0\DIPDelegate.dll
+C:\Users\Harshvardhan Gupta\source\repos\DIPDelegate\DIPDelegate\bin\Debug\net8.0\DIPDelegate.pdb
+C:\Users\Harshvardhan Gupta\source\repos\DIPDelegate\DIPDelegate\obj\Debug\net8.0\DIPDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshvardhan Gupta\source\repos\DIPDelegate\DIPDelegate\obj\Debug\net8.0\DIPDelegate.AssemblyInfoInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\DIPDelegate\DIPDelegate\obj\Debug\net8.0\DIPDelegate.AssemblyInfo.cs
+C:\Users\Harshvardhan Gupta\source\repos\DIPDelegate\DIPDelegate\obj\Debug\net8.0\DIPDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\DIPDelegate\DIPDelegate\obj\Debug\net8.0\DIPDelegate.dll
+C:\Users\Harshvardhan Gupta\source\repos\DIPDelegate\DIPDelegate\obj\Debug\net8.0\refint\DIPDelegate.dll
+C:\Users\Harshvardhan Gupta\source\repos\DIPDelegate\DIPDelegate\obj\Debug\net8.0\DIPDelegate.pdb
+C:\Users\Harshvardhan Gupta\source\repos\DIPDelegate\DIPDelegate\obj\Debug\net8.0\DIPDelegate.genruntimeconfig.cache
+C:\Users\Harshvardhan Gupta\source\repos\DIPDelegate\DIPDelegate\obj\Debug\net8.0\ref\DIPDelegate.dll
